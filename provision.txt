@@ -1,0 +1,4 @@
+Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtectedOSFiles -EnableShowFileExtensions
+
+cinst steam
+cinst notepadplusplus

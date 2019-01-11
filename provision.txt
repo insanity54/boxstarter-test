@@ -2,3 +2,5 @@ Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtec
 
 cinst steam
 cinst notepadplusplus
+cinst synergy
+cinst zerotier-one

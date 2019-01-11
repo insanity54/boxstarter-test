@@ -4,3 +4,7 @@ cinst steam
 cinst notepadplusplus
 cinst synergy
 cinst zerotier-one
+cinst steamcmd
+
+steamcmd +login anonymous
+steamcmd +app_update 393380

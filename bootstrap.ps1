@@ -1,4 +1,4 @@
-. { iwr -useb https://boxstarter.org/bootstrapper.ps1 } | iex; get-boxstarter -Force
+. { iwr -useb https://boxstarter.org/bootstrapper.ps1 } | iex; get-boxstarter -Force -Version=2.10.3
 
 cinst steam
 cinst notepadplusplus
